@@ -63,24 +63,5 @@
     <header>
         <h1>Обувь из натуральной кожи</h1>
     </header>
-
-    <div class="main-content">
-        <div class="product-card">
-            <img src="https://via.placeholder.com/200" alt="Кожаные туфли">
-            <h2>Кожаные туфли</h2>
-            <p>Элегантные туфли из натуральной кожи</p>
-            <p class="price">₽3000</p>
-        </div>
-        <div class="product-card">
-            <img src="https://via.placeholder.com/200" alt="Кожаные ботинки">
-            <h2>Кожаные ботинки</h2>
-            <p>Удобные ботинки для ежедневного ношения</p>
-            <p class="price">₽3500</p>
-        </div>
-    </div>
-
-    <footer>
-        <p>&copy; 2025 Обувь из натуральной кожи</p>
-    </footer>
 </body>
 </html> LuxeShoes
